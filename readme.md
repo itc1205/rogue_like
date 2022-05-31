@@ -5,7 +5,7 @@ This game is being written by following [that](https://bfnightly.bracketproducti
 ## Dependencies
 
 1. rustup
-2. libriaries
+2. libraries
     - rltk
     - specs
     - specs-derive
