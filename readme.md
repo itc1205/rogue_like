@@ -14,7 +14,7 @@ This game is being written by following [that](https://bfnightly.bracketproducti
 ## Compilation
 
 To compile it just run
-    ```bash
+    ```
     cargo run --release```
 
 And thats it, thats the beauty of Rust lang
